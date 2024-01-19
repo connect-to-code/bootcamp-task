@@ -26,6 +26,10 @@ section {
     margin-bottom: 22px !important;
 }
 
+.feature-des {
+    margin-bottom: 28px;
+}
+
 .card-des {
     color: #727272;
     font-size: 16px;
