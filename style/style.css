@@ -27,7 +27,7 @@ section {
 }
 
 .feature-des {
-    margin-bottom: 28px;
+    margin-bottom: 28px !important;
 }
 
 .card-des {
